@@ -1,0 +1,46 @@
+button{
+	border:2px;
+	border-radius:10px;
+}
+
+canvas{
+	margin-left:auto;
+	margin-right:auto;
+	border:5px;
+	border-radius:30px;
+}
+
+ul{
+    padding-left: 0pt;
+	margin-left:0pt;
+	list-style-type: none;	
+}
+
+ul #ul-outer{
+	margin-left:0pt;
+	list-style-type: none;
+}
+
+ul #ul-outer li {
+	list-style-type: none;
+	display: inline;
+}
+
+ul #ul-inner {
+    padding-left: 0pt;
+	list-style-type: none;
+}
+
+ul #ul-inner li{
+	list-style-type: none;
+    padding-left: 0pt;
+	display: block;
+}
+
+#app-canvas{
+	width: 80%;
+}
+
+#app-details{
+	width: 80%;
+}
